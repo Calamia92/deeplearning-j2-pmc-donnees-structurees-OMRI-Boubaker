@@ -1,0 +1,4 @@
+tensorflow>=2.16,<2.20
+scikit-learn>=1.4,<1.8
+keras-tuner>=1.4,<1.5
+pandas>=2.2,<2.4
